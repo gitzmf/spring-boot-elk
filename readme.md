@@ -19,5 +19,9 @@
 
 [Logstash环境搭建](./elk/docs/Logstash环境搭建.md)
 
+[Logstash详解](./elk/docs/Logstash详解.md)
+
 [Kibana环境搭建](./elk/docs/Kibana环境搭建.md)
+
+[Kibana详解](./elk/docs/Kibana详解.md)
 
