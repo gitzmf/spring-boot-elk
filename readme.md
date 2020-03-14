@@ -25,3 +25,9 @@
 
 [Kibana详解](./elk/docs/Kibana详解.md)
 
+[Filebeat环境搭建](./elk/docs/Filebeat环境搭建.md)
+
+[整合Redis消息队列](./elk/docs/整合Redis消息队列.md)
+
+[整合Kafka消息队列](./elk/docs/整合Kafka消息队列.md)
+
